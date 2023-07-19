@@ -1,0 +1,15 @@
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\bin\Debug\net7.0\Example001_HelloWorldConsole.exe
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\bin\Debug\net7.0\Example001_HelloWorldConsole.deps.json
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\bin\Debug\net7.0\Example001_HelloWorldConsole.runtimeconfig.json
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\bin\Debug\net7.0\Example001_HelloWorldConsole.dll
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\bin\Debug\net7.0\Example001_HelloWorldConsole.pdb
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\Example001_HelloWorldConsole.csproj.AssemblyReference.cache
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\Example001_HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\Example001_HelloWorldConsole.AssemblyInfoInputs.cache
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\Example001_HelloWorldConsole.AssemblyInfo.cs
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\Example001_HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\Example001_HelloWorldConsole.dll
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\refint\Example001_HelloWorldConsole.dll
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\Example001_HelloWorldConsole.pdb
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\Example001_HelloWorldConsole.genruntimeconfig.cache
+C:\Users\Ермек\OneDrive\Desktop\Example-1\Example001_HelloWorldConsole\obj\Debug\net7.0\ref\Example001_HelloWorldConsole.dll
